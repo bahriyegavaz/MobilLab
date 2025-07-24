@@ -1,0 +1,14 @@
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/bin/Debug/net9.0/HelloVsCode
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/bin/Debug/net9.0/HelloVsCode.deps.json
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/bin/Debug/net9.0/HelloVsCode.runtimeconfig.json
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/bin/Debug/net9.0/HelloVsCode.dll
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/bin/Debug/net9.0/HelloVsCode.pdb
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.AssemblyInfoInputs.cache
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.AssemblyInfo.cs
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.csproj.CoreCompileInputs.cache
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.dll
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/refint/HelloVsCode.dll
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.pdb
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/HelloVsCode.genruntimeconfig.cache
+/Users/bahriyegavaz/Templates/gcc/HelloVsCode/obj/Debug/net9.0/ref/HelloVsCode.dll

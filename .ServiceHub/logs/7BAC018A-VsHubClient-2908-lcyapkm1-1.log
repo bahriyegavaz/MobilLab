@@ -1,0 +1,10 @@
+﻿07/24/2025 09:59:19 GMT+03:00 : Information : Local timezone is (UTC+03:00) Türkiye Saati
+07/24/2025 09:59:19 GMT+03:00 : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":2908}]}
+07/24/2025 09:59:19 GMT+03:00 : Information : VsHubClient-hubController read: Content-Length: 502
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://2916F06238","ControllerConfig":{"Executable":"/Users/bahriyegavaz/.vscode/extensions/ms-dotnettools.csdevkit-1.30.44-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-controller.darwin-arm64/Microsoft.VisualStudio.Code.ServiceController","Args":["f82700b719"],"PipeName":"f82700b719"},"HostsConfig":{"EnableExternalAuthorizationService":false,"RootDir":".","AppConfigFallback":""}}}
+07/24/2025 09:59:19 GMT+03:00 : Information : Connected to Hub Controller's client watch 'net.pipe://2916F06238
+07/24/2025 10:17:24 GMT+03:00 : Information : VsHubClient-hubController JSON RPC has been disposed
+07/24/2025 10:17:24 GMT+03:00 : Information : VsHubClient-hubController read: end of stream
